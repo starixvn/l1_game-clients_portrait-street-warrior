@@ -1,159 +1,264 @@
 
 transition.webp
-size: 1866,1808
+size: 1872,1848
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-light
+energy3/energy_00
   rotate: false
-  xy: 1, 1360
-  size: 660, 447
-  orig: 669, 454
-  offset: 4, 4
-  index: -1
-smoke-explode/smoke_00000
-  rotate: false
-  xy: 1265, 1357
-  size: 600, 450
-  orig: 600, 450
+  xy: 1, 1321
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00001
+energy3/energy_01
   rotate: false
-  xy: 1, 908
-  size: 600, 450
-  orig: 600, 450
+  xy: 469, 1585
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00002
+energy3/energy_02
   rotate: false
-  xy: 603, 905
-  size: 600, 450
-  orig: 600, 450
+  xy: 1, 1057
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00003
+energy3/energy_03
   rotate: false
-  xy: 1205, 905
-  size: 600, 450
-  orig: 600, 450
+  xy: 469, 1321
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00004
+energy3/energy_04
   rotate: false
-  xy: 1, 456
-  size: 600, 450
-  orig: 600, 450
+  xy: 937, 1585
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00005
+energy3/energy_05
   rotate: false
-  xy: 603, 453
-  size: 600, 450
-  orig: 600, 450
+  xy: 1, 793
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00006
+energy3/energy_06
   rotate: false
-  xy: 1205, 453
-  size: 600, 450
-  orig: 600, 450
+  xy: 469, 1057
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00007
+energy3/energy_07
   rotate: false
-  xy: 1205, 453
-  size: 600, 450
-  orig: 600, 450
+  xy: 937, 1321
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00008
+energy3/energy_08
   rotate: false
-  xy: 1205, 453
-  size: 600, 450
-  orig: 600, 450
+  xy: 1405, 1585
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00009
+energy3/energy_09
   rotate: false
-  xy: 1, 4
-  size: 600, 450
-  orig: 600, 450
+  xy: 1, 529
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00010
+energy3/energy_10
   rotate: false
-  xy: 603, 1
-  size: 600, 450
-  orig: 600, 450
+  xy: 469, 793
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00011
+energy3/energy_11
   rotate: false
-  xy: 1205, 1
-  size: 600, 450
-  orig: 600, 450
+  xy: 937, 1057
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00017
+energy3/energy_12
   rotate: false
-  xy: 663, 1357
-  size: 600, 450
-  orig: 600, 450
+  xy: 1405, 1321
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_13
+  rotate: false
+  xy: 1, 265
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_14
+  rotate: false
+  xy: 469, 529
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_15
+  rotate: false
+  xy: 937, 793
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_16
+  rotate: false
+  xy: 1405, 1057
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_17
+  rotate: false
+  xy: 1, 1
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_18
+  rotate: false
+  xy: 469, 265
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_19
+  rotate: false
+  xy: 937, 529
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_20
+  rotate: false
+  xy: 1405, 793
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_21
+  rotate: false
+  xy: 469, 1
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_22
+  rotate: false
+  xy: 937, 265
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_23
+  rotate: false
+  xy: 1405, 529
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_24
+  rotate: false
+  xy: 937, 1
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_25
+  rotate: false
+  xy: 937, 1
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_26
+  rotate: false
+  xy: 1405, 265
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_27
+  rotate: false
+  xy: 1405, 1
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_35
+  rotate: false
+  xy: 1, 1585
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
 
 transition2.webp
-size: 1911,1664
+size: 1848,468
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-cheer-hand
-  rotate: false
-  xy: 1053, 1102
-  size: 857, 561
-  orig: 857, 561
-  offset: 0, 0
-  index: -1
-foambeer
-  rotate: true
-  xy: 1, 603
-  size: 1060, 1050
-  orig: 1254, 1254
-  offset: 103, 114
-  index: -1
-smoke-explode/smoke_00012
+energy3/energy_28
   rotate: true
   xy: 1, 1
-  size: 600, 450
-  orig: 600, 450
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00013
+energy3/energy_29
   rotate: true
-  xy: 453, 1
-  size: 600, 450
-  orig: 600, 450
+  xy: 265, 1
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00014
+energy3/energy_30
   rotate: true
-  xy: 905, 1
-  size: 600, 450
-  orig: 600, 450
+  xy: 529, 1
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00015
-  rotate: false
-  xy: 1053, 650
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00016
+energy3/energy_31
   rotate: true
-  xy: 1357, 48
-  size: 600, 450
-  orig: 600, 450
+  xy: 793, 1
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_32
+  rotate: true
+  xy: 1057, 1
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_33
+  rotate: true
+  xy: 1321, 1
+  size: 466, 262
+  orig: 466, 262
+  offset: 0, 0
+  index: -1
+energy3/energy_34
+  rotate: true
+  xy: 1585, 1
+  size: 466, 262
+  orig: 466, 262
   offset: 0, 0
   index: -1
