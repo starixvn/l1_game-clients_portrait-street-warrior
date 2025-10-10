@@ -6,7 +6,7 @@ function writeFile(fileName: string, content: string, extension = "ts") {
         encoding: "utf8",
         flag: "w",
     });
-}
+} 
 
 const languageFolder = "./src/assets/resources/i18n/";
 const languageCodes = ["en", "id", "th", "vi", "zh_cn", "zh_tw", "ja", "es"];
